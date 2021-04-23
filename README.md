@@ -12,6 +12,6 @@
 
 <br />
 
-[website]: https://avinash102.github.io/CodeWeb/
+[CodeWeb]: https://avinash102.github.io/CodeWeb/
 [twitter]: https://twitter.com/Avinash42002996
 [linkedin]: https://www.linkedin.com/in/avinash-gupta-0766b1142/
