@@ -1,4 +1,4 @@
-### Hi there, I'm avinash - aka avi [website] 👋
+### Hi there, I'm avinash - aka avi [CodeWeb] 👋
 
 ## I'm a Web Developer!
 - 🐱‍👤 I’m currently working on Rest API for a website 
@@ -9,7 +9,6 @@
 ### Connect with me:
 [<img align="left" alt="avinash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="avinash | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="avinash | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
