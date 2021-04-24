@@ -41,8 +41,8 @@
 [NodeJs]:https://nodejs.org/en/
 [GraphQL]:https://graphql.org/
 [React]:https://reactjs.org/
-[Javascript]:https://www.javascript.com/
+[Javascript]:https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [SASS]:https://sass-lang.com/
-[CSS3]:
-[HTML5]:
+[CSS3]:https://tympanus.net/codrops/tag/css3/
+[HTML5]:https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 [VisualStudio]:https://code.visualstudio.com/download
