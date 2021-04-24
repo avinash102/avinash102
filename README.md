@@ -1,4 +1,4 @@
-### Hi there, I'm avinash - aka avi [CodeWeb] 👋
+### Hi there, I'm Avinash - aka avi [CodeWeb] 👋
 
 ## I'm a Web Developer!
 - 🐱‍👤 I’m currently working on Rest API for a website 
