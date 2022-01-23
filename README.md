@@ -1,10 +1,9 @@
 ### Hi there, I'm Avinash - aka avi [CodeWeb] 👋
 
-## I'm a Web Developer!
+## I'm a Full Stack Developer!
 - 🐱‍👤 I’m currently working on Rest API for a website 
-- 🌱 I’m currently learning Node Js 😎
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read books and listening music
+- ⚡ Fun fact: I love to design web components and listening music
 
 ### Connect with me:
 [<img align="left" alt="avinash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
